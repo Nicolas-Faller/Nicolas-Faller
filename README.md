@@ -16,6 +16,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36"/>
 
 ## Contact
-- LinkedIn: https://linkedin.com/in/SEU_LINK
-- Email: SEU_EMAIL
+- LinkedIn: www.linkedin.com/in/nicolas-rios-faller-3774a0203
+- Email: nfaller.rios@gmail.com
  
