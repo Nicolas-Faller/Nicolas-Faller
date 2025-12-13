@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Nicolas 👋
+**C# / .NET Developer** building **web applications**, **APIs**, and **data-driven systems**.
 
-<!--
-**Nicolas-Faller/Nicolas-Faller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Main stack: **C#**, **.NET (6/8)**, **ASP.NET Core**, **EF Core**, **LINQ**
+- 🗄️ Databases: **SQL Server**, **PostgreSQL**
+- 🔌 Integrations: **REST APIs**
+- ⚙️ Interests: automation, monitoring, and reporting systems
 
-Here are some ideas to get you started:
+## Tech Stack
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- LinkedIn: https://linkedin.com/in/SEU_LINK
+- Email: SEU_EMAIL
+ 
