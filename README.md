@@ -8,13 +8,13 @@
 
 ## Tech Stack
 <div class="tech-stack">
-  <img src="csharp.svg" alt="C#" />
-  <img src="dotnet.svg" alt=".NET" />
-  <img src="aspnet.svg" alt="ASP.NET" />
-  <img src="postgresql.svg" alt="PostgreSQL" />
-  <img src="sqlserver.svg" alt="SQL Server" />
-  <img src="git.svg" alt="Git" />
-  <img src="linux.svg" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="ASP.NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" />
 </div>
 
 
