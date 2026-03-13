@@ -15,16 +15,16 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/C%23-2D6A73?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-2D6A73?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-2D6A73?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/EF_Core-2D6A73?style=flat-square&logo=dotnet&logoColor=white" alt="EF Core" />
-  <img src="https://img.shields.io/badge/LINQ-2D6A73?style=flat-square&logoColor=white" alt="LINQ" />
-  <img src="https://img.shields.io/badge/REST_APIs-2D6A73?style=flat-square&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/PostgreSQL-2D6A73?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQL_Server-2D6A73?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Git-2D6A73?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-2D6A73?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Code-C%23-2B7BBB?style=flat-square&labelColor=4B5563&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Framework-.NET-2B7BBB?style=flat-square&labelColor=4B5563&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Web-ASP.NET_Core-2B7BBB?style=flat-square&labelColor=4B5563&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/ORM-EF_Core-2B7BBB?style=flat-square&labelColor=4B5563&logo=dotnet&logoColor=white" alt="EF Core" />
+  <img src="https://img.shields.io/badge/Query-LINQ-2B7BBB?style=flat-square&labelColor=4B5563&logoColor=white" alt="LINQ" />
+  <img src="https://img.shields.io/badge/API-REST_APIs-2B7BBB?style=flat-square&labelColor=4B5563&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/DB-PostgreSQL-2B7BBB?style=flat-square&labelColor=4B5563&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/DB-SQL_Server-2B7BBB?style=flat-square&labelColor=4B5563&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Tools-Git-2B7BBB?style=flat-square&labelColor=4B5563&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/OS-Linux-2B7BBB?style=flat-square&labelColor=4B5563&logo=linux&logoColor=white" alt="Linux" />
 </p>
 
 </div>
