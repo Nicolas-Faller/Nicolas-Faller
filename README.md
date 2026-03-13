@@ -1,11 +1,7 @@
 <div align="center">
   <h1>Nicolas Faller</h1>
-  <p>
-    <strong>Backend Developer | C# | .NET</strong>
-  </p>
-  <p>
-    Building APIs, automation workflows, and data-driven systems.
-  </p>
+  <p><strong>Backend Developer | C# | .NET</strong></p>
+  <p>Building APIs, automation workflows, and data-driven systems.</p>
 
   <p>
     <a href="https://www.linkedin.com/in/nicolas-rios-faller-3774a0203">
@@ -20,7 +16,7 @@
     <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
     <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
     <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-    <img src="https://img.shields.io/badge/REST_APIs-0A0A0A?style=flat-square" alt="REST APIs" />
+    <img src="https://img.shields.io/badge/REST_APIs-111111?style=flat-square" alt="REST APIs" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
@@ -51,7 +47,7 @@ My work is centered on building practical solutions that replace manual routines
 
 ## Tech Stack
 
-<p align="left">
+<p>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="ASP.NET Core" />
@@ -66,28 +62,17 @@ My work is centered on building practical solutions that replace manual routines
 
 ## Focus Areas
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>Backend Development</h3>
-      <ul>
-        <li>C# / .NET applications</li>
-        <li>ASP.NET Core Web APIs</li>
-        <li>Entity Framework Core</li>
-        <li>LINQ and structured data handling</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h3>Automation & Integration</h3>
-      <ul>
-        <li>REST API integrations</li>
-        <li>JSON normalization</li>
-        <li>Operational automation</li>
-        <li>Automated PDF and Excel reports</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### Backend Development
+- C# / .NET applications
+- ASP.NET Core Web APIs
+- Entity Framework Core
+- LINQ and structured data handling
+
+### Automation & Integration
+- REST API integrations
+- JSON normalization
+- Operational automation
+- Automated PDF and Excel reports
 
 ---
 
@@ -96,14 +81,12 @@ My work is centered on building practical solutions that replace manual routines
 - Built backend solutions to automate operational routines and reduce manual work
 - Developed APIs for ingesting, normalizing, and structuring data for internal consumption
 - Worked on automated reporting pipelines delivering **PDF** and **Excel** outputs
-- Contributed to application restructuring with better code organization, Git usage, and environment separation
-- Participated in projects involving **end-to-end delivery**, including backend and frontend integration
+- Contributed to better code organization, Git usage, and environment separation
+- Participated in projects involving backend and frontend integration
 
 ---
 
 ## Contact
 
-<p>
-  <a href="https://www.linkedin.com/in/nicolas-rios-faller-3774a0203">LinkedIn</a> •
-  <a href="mailto:nfaller.rios@gmail.com">nfaller.rios@gmail.com</a>
-</p>
+- LinkedIn: <a href="https://www.linkedin.com/in/nicolas-rios-faller-3774a0203">linkedin.com/in/nicolas-rios-faller-3774a0203</a>
+- Email: <a href="mailto:nfaller.rios@gmail.com">nfaller.rios@gmail.com</a>
