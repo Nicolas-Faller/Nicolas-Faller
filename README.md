@@ -30,15 +30,11 @@
 
 </div>
 
----
-
 ## About Me
 
 I work with backend development using **C# / .NET**, with focus on **Web APIs**, **system integrations**, **process automation**, and **data normalization**.
 
 My goal is to build practical solutions that reduce manual work, improve reliability, and transform operational data into structured outputs for internal tools, reports, and integrations.
-
----
 
 ## What I Do
 
@@ -47,8 +43,6 @@ My goal is to build practical solutions that reduce manual work, improve reliabi
 - Automate operational and reporting workflows
 - Process and normalize data from files, logs, and APIs
 - Generate structured outputs such as **JSON**, **PDF**, and **Excel**
-
----
 
 ## Core Stack
 
@@ -63,8 +57,6 @@ My goal is to build practical solutions that reduce manual work, improve reliabi
   <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" />
 </p>
 
----
-
 ## Focus
 
 **Backend Development**  
@@ -76,8 +68,6 @@ REST APIs · Data processing · JSON normalization · Reporting workflows
 **Data & Persistence**  
 SQL Server · PostgreSQL · Structured outputs · Internal tooling
 
----
-
 ## Highlights
 
 - Backend solutions focused on real business routines
@@ -85,8 +75,6 @@ SQL Server · PostgreSQL · Structured outputs · Internal tooling
 - Automation flows replacing repetitive manual processes
 - Report generation with organized and reusable outputs
 - Clean and practical development focused on useful software
-
----
 
 ## Contact
 
