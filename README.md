@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 # Nicolas Faller
 
@@ -14,17 +14,14 @@
   <a href="https://www.linkedin.com/in/nicolas-rios-faller-3774a0203">www.linkedin.com/in/nicolas-rios-faller-3774a0203</a>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Code-C%23-2B7BBB?style=flat-square&labelColor=4B5563&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Framework-.NET-2B7BBB?style=flat-square&labelColor=4B5563&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Web-ASP.NET_Core-2B7BBB?style=flat-square&labelColor=4B5563&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/ORM-EF_Core-2B7BBB?style=flat-square&labelColor=4B5563&logo=dotnet&logoColor=white" alt="EF Core" />
-  <img src="https://img.shields.io/badge/Query-LINQ-2B7BBB?style=flat-square&labelColor=4B5563&logoColor=white" alt="LINQ" />
-  <img src="https://img.shields.io/badge/API-REST_APIs-2B7BBB?style=flat-square&labelColor=4B5563&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/DB-PostgreSQL-2B7BBB?style=flat-square&labelColor=4B5563&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/DB-SQL_Server-2B7BBB?style=flat-square&labelColor=4B5563&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Tools-Git-2B7BBB?style=flat-square&labelColor=4B5563&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/OS-Linux-2B7BBB?style=flat-square&labelColor=4B5563&logo=linux&logoColor=white" alt="Linux" />
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23%20%2F%20.NET%20Core-4B5563?style=flat-square&logo=dotnet&logoColor=white" alt="C# / .NET Core" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-4B5563?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/Web%20API-4B5563?style=flat-square&logoColor=white" alt="Web API" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-4B5563?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework" />
+  <img src="https://img.shields.io/badge/REST%20APIs-4B5563?style=flat-square&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4B5563?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQL%20Server-4B5563?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 </p>
 
 </div>
@@ -59,7 +56,7 @@ My goal is to build practical solutions that reduce manual work, improve reliabi
 ## Focus
 
 **Backend Development**  
-C# · .NET · ASP.NET Core · EF Core · LINQ
+C# · .NET · ASP.NET Core · Entity Framework · LINQ
 
 **Automation & Integration**  
 REST APIs · Data processing · JSON normalization · Reporting workflows
