@@ -57,16 +57,16 @@ I am comfortable working across the full development cycle — from requirements
   <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" />
 </p>
 
-## Focus
+## Core Focus
 
 **Backend Development**  
-C# · .NET · ASP.NET Core · Entity Framework · LINQ
+C# · .NET / .NET Core · ASP.NET Core · Entity Framework · LINQ
 
-**Automation & Integration**  
-REST APIs · Data processing · JSON normalization · Reporting workflows
+**API Design & Integration**  
+REST APIs · Web API development · Service integration · Frontend-backend communication
 
-**Data & Persistence**  
-SQL Server · PostgreSQL · Structured outputs · Internal tooling
+**Code Quality & Delivery**  
+SQL Server · PostgreSQL · Clean code organization · Git version control · Environment separation
 
 ## Highlights
 
