@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 # Nicolas Faller
 
@@ -15,13 +15,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23%20%2F%20.NET%20Core-4B5563?style=flat-square&logo=dotnet&logoColor=white" alt="C# / .NET Core" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-4B5563?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/Web%20API-4B5563?style=flat-square&logoColor=white" alt="Web API" />
-  <img src="https://img.shields.io/badge/Entity%20Framework-4B5563?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework" />
-  <img src="https://img.shields.io/badge/REST%20APIs-4B5563?style=flat-square&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4B5563?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQL%20Server-4B5563?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/C%23-4B5563?style=for-the-badge" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET%20Core-4B5563?style=for-the-badge" alt=".NET Core" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-4B5563?style=for-the-badge" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/Web%20API-4B5563?style=for-the-badge" alt="Web API" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-4B5563?style=for-the-badge" alt="Entity Framework" />
+  <img src="https://img.shields.io/badge/REST%20APIs-4B5563?style=for-the-badge" alt="REST APIs" />
 </p>
 
 </div>
