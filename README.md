@@ -27,9 +27,13 @@
 
 ## About Me
 
-I work with backend development using **C# / .NET**, focusing on **Web APIs**, **system integrations**, **process automation**, and **data normalization**.
+I have a solid background in backend development using **C# / .NET**, with focus on building **web applications**, **REST APIs**, and maintainable backend solutions that support real business operations.
 
-My goal is to build practical solutions that reduce manual work, improve reliability, and transform operational data into structured outputs for internal tools, reports, and integrations.
+My experience includes API development and consumption, system integration across multiple sources, and application modernization through cleaner architecture, better code organization, Git version control, and environment separation between development and production.
+
+I also contribute to solutions involving data processing, reporting, and operational improvements when required, while keeping my main focus on backend engineering, system design, and practical software development.
+
+I am comfortable working across the full development cycle — from requirements gathering and proof of concept to backend implementation and frontend-backend integration.
 
 ## What I Do
 
