@@ -68,10 +68,10 @@ REST APIs · Web API development · Service integration · Frontend-backend comm
 **Code Quality & Delivery**  
 SQL Server · PostgreSQL · Clean code organization · Git version control · Environment separation
 
-## Highlights
+## Backend Profile
 
-- Backend solutions focused on real business routines
-- APIs for ingestion, transformation, and structured delivery of data
-- Automation flows replacing repetitive manual processes
-- Report generation with organized and reusable outputs
-- Clean and practical development focused on useful software
+- Designed and developed backend solutions with **C# / .NET** for practical business scenarios
+- Built and consumed **REST APIs** for system integration and service communication
+- Improved application structure through cleaner code organization, version control with Git, and separation of development and production environments
+- Contributed end-to-end, from requirements gathering and proof of concept to backend delivery and frontend-backend integration
+- Helped create maintainable solutions that support operational reliability and long-term system evolution
