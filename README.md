@@ -35,13 +35,14 @@ I also contribute to solutions involving data processing, reporting, and operati
 
 I am comfortable working across the full development cycle — from requirements gathering and proof of concept to backend implementation and frontend-backend integration.
 
-## What I Do
+## What I Build
 
-- Build backend applications with **C# / .NET**
-- Develop **REST APIs** for integration and internal data consumption
-- Automate operational and reporting workflows
-- Process and normalize data from files, logs, and APIs
-- Generate structured outputs such as **JSON**, **PDF**, and **Excel**
+- Backend solutions with **C# / .NET** focused on scalability, maintainability, and real business usage
+- **REST APIs** for integration between systems, internal services, and operational platforms
+- Web backend development with **ASP.NET Core**
+- Application modernization through cleaner code organization, Git-based workflows, and separation between development and production environments
+- End-to-end technical contribution, from requirements gathering and proof of concept to backend implementation and frontend-backend integration
+- Structured solutions that support internal operations, reporting flows, and reliable data delivery
 
 ## Core Stack
 
